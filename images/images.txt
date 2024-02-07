@@ -1,0 +1,6 @@
+Pay attention to licensing when choosing images for projects. 
+
+ https://pixabay.com/       has many freely licensed graphics that can be used and modified.
+
+ Using a bitmap (.bmp) file works best because Pygame loads bitmaps by default.
+ - If image is in .jpg or .png formats, you can convert to bitmap using tools like Photoshop, GIMP, or Paint.
